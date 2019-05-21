@@ -1,0 +1,8 @@
+{
+	"disableAutoUpdate": false,
+	"name": "no-mote-cancel",
+	"author": "Snug / pinkie",
+	"description": "blocks the ability to cancel motes on mystic",
+	"version": "1.0",
+	"servers": ["https://raw.githubusercontent.com/Snugglez/no-mote-cancel/master/"]
+}
